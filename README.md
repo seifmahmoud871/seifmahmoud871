@@ -2,51 +2,65 @@
 <h3 align="center">A MERN Stack Software Engineer</h3>
 
 
+
+
+## Skills
+  
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=4AB197)
+
+
+  
+![](https://img.shields.io/badge/Code-Express.js-informational?style=for-the-badge&logo=Express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=4AB197)
+
+  
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=Spring&logoColor=white&color=4AB197)
+
+  
+![](https://img.shields.io/badge/Code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-django-informational?style=for-the-badge&logo=django&logoColor=white&color=4AB197)
+ 
+![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=4AB197)  
+  
+  
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DB-Sqlserver-informational?style=for-the-badge&logo=Sqlserver&logoColor=white&color=4AB197)
+  
+  
+![](https://img.shields.io/badge/API-RestAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/API-GraphQl-informational?style=for-the-badge&logo=GraphQl&logoColor=white&color=4AB197)
+  
+<details>
+<summary>More Skills</summary>
+<br>
+
+
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=4AB197)  
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=4AB197)
+
+</details>
+  
 ## Contact
 <p align="left">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-mahmoud-82a238234/)
-
-## Skills
-
-### Programming Languages
-![c++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus&logoColor=)
-![php](https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php&logoColor=fff)
-![java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=fff)
-
-
-### Full Stack Web Development 
-
-#### Front End
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-#### Back End
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-
-### Devops
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-
-### Essentials
-
-[![github](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=orange)](https://twitter.com/)
-[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=fff)](https://twitter.com/)
-
+<br>
+<br>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifmahmoud871&show_icons=true&locale=en&layout=compact" alt="seifmahmoud871" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifmahmoud871&show_icons=true&locale=en" alt="seifmahmoud871" /></p>
