@@ -34,7 +34,7 @@
   
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=004F6D)
-![](https://img.shields.io/badge/DB-Sqlserver-informational?style=for-the-badge&logo=Sqlserver&logoColor=white&color=004F6D)
+![](https://img.shields.io/badge/DB-SqlServer-informational?style=for-the-badge&logo=MicrosoftSqlserver&logoColor=white&color=004F6D)
   
   
 ![](https://img.shields.io/badge/API-RestAPI-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=004F6D)
