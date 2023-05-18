@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=004F6D)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=004F6D)
-![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=004F6D)
+<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=004F6D) -->
 
 
   
